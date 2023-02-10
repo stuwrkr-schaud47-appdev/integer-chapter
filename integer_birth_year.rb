@@ -8,5 +8,5 @@
 
 puts "How old are you?"
 age = gets.chomp.to_i
-birthyear = 2022 - age
+birthyear = 2023 - age
 puts "Wow, you were born in " + birthyear.to_s + ". You're old!"
